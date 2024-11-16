@@ -8,7 +8,7 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
 
 - 💻 **Data Enthusiast**: I love working with data—whether it’s cleaning, analyzing, or visualizing. I’m always excited about discovering patterns and anomalies that lead to actionable insights.  
 - 🔐 **Cybersecurity Advocate**: With a background in cybersecurity, I ensure that data is not only useful but also secure.
-- 🌟**Driving Secure Data Solutions**: My mission is to integrate security and data analytics in product management, crafting solutions that leverage the power of data while safeguarding    user privacy and trust. I strive to deliver insights-driven, secure-by-design products that solve real-world problems.
+- 🌟**Driving Secure Data-Driven, Secure Solutions**: My mission is to integrate security and data analytics in product management, crafting solutions that leverage the power of data while safeguarding    user privacy and trust. I strive to deliver insights-driven, secure-by-design products that solve real-world problems.
 - 🛠️ **Technical Skills**:
   - **SQL**: Joins, Group-By, Window Functions, DateTime & String Functions, and more.
   - **Data Cleaning**: Ensuring data is ready for analysis.
