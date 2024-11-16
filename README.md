@@ -16,6 +16,8 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
   - **Data Visualization**: Creating impactful visualizations for better understanding.
   - **Dashboarding**: Building interactive dashboards using **Tableau** and other BI tools.
   - **Cybersecurity**: Securing data and systems, identifying potential threats, and analyzing vulnerabilities.
+  - **Product Management**: Driving strategy and roadmaps with Jira, user research, and performance tracking using Google Analytics and Tableau
+  - **Scrum**: Scrum: Certified Scrum Master, proficient in agile frameworks and sprint facilitation
 
 ---
 
