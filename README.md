@@ -6,9 +6,10 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
 
 ## 🔍 **About Me**
 
-- 💻 **Data Enthusiast**: I love working with data—whether it’s cleaning, analyzing, or visualizing. I’m always excited about discovering patterns and anomalies that lead to actionable insights.  
+- 💻 **Data Enthusiast**: I’m always excited about discovering patterns and anomalies that lead to actionable insights.  
 - 🔐 **Cybersecurity Advocate**: With a background in cybersecurity, I ensure that data is not only useful but also secure.
-- 🌟**Building Data-Driven, Secure Solutions**: My mission is to integrate security and data analytics in product management, crafting solutions that leverage the power of data while safeguarding    user privacy and trust. I strive to deliver insights-driven, secure-by-design products that solve real-world problems.
+- 🌟**Building Data-Driven, Secure Solutions**: My mission is to integrate security and data analytics in products, crafting solutions that leverage the power of data while safeguarding    user privacy and trust.
+
 - 🛠️ **Technical Skills**:
   - **SQL**: Joins, Group-By, Window Functions, DateTime & String Functions, and more.
   - **Data Cleaning**: Ensuring data is ready for analysis.
@@ -40,17 +41,31 @@ Beyond my data-centric skills, I also dive deep into cybersecurity. I have exper
 
 ---
 
+## 📈 Academic Reports and Presenations
+
+### RoomieMatch
+A roommate-matching extension for Syracuse University's MySlice portal. Oversaw product vision, requirements gathering, stakeholder alignment, and roadmap planning to deliver a scalable, user-centric solution integrating filters, profile customization, and secure communication features.
+
+https://github.com/rashmius/roomie-match
+
+### Consulting Reports
+- Doghouse Launch Strategy
+- Strategic Growth Report: C3 Solutions
+- Digital Transformation Strategy for Grupo Ferrer
+
+https://github.com/rashmius/consultant-reports
+
 ## 📂 **Projects**
 
 Here are some of the projects I've worked on:
 
 ### 1. 📊 **Log Analysis for Application Security**
-- **Objective**: Analyze HTTP logs of a web application to detect anomalies and improve security.
+Analyze HTTP logs of a web application to detect anomalies and improve security.
 - **Key Skills**: Log parsing, anomaly detection, HTTP request/response analysis, security insights.
 - **Tools**: Python, Regex, Linux command-line utilities.
 
 ### 2. 🗄️ **Management System (SQL Database)**
-- **Objective**: Developed a SQL-based management system that stored and managed organizational data efficiently.
+Developed a SQL-based management system that stored and managed organizational data efficiently.
 - **Key Skills**: SQL, Database Design, Optimization.
 - **Tools**: MySQL, PostgreSQL.
 
