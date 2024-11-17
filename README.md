@@ -19,12 +19,6 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
 
 ---
 
-## 🔐 **Cybersecurity Focus**
-
-Beyond my data-centric skills, I also dive deep into cybersecurity. I have experience in securing environments, managing access control, and analyzing logs to detect anomalies or threats.
-
----
-
 ## 📈 Academic Reports and Presenations
 
 ### RoomieMatch
@@ -38,6 +32,14 @@ https://github.com/rashmius/roomie-match
 - Digital Transformation Strategy for Grupo Ferrer
 
 https://github.com/rashmius/consultant-reports
+
+--- 
+
+## 🔐 **Cybersecurity Focus**
+
+Beyond my data-centric skills, I also dive deep into cybersecurity. I have experience in securing environments, managing access control, and analyzing logs to detect anomalies or threats.
+
+---
 
 ## 📂 **Projects**
 
@@ -54,6 +56,7 @@ Developed a SQL-based management system that stored and managed organizational d
 - **Tools**: MySQL, PostgreSQL.
 
 ---
+
 
 ## 🛠️ **Tools & Technologies**
 <p align="left">
