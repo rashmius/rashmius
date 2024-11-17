@@ -12,26 +12,10 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
 
 - 🛠️ **Technical Skills**:
   - **SQL**: Joins, Group-By, Window Functions, DateTime & String Functions, and more.
-  - **Data Cleaning**: Ensuring data is ready for analysis.
-  - **Exploratory Data Analysis (EDA)**: Using insights to curate recommendations relevant to problem statements.
   - **Data Visualization**: Creating impactful visualizations for better understanding.
   - **Dashboarding**: Building interactive dashboards using **Tableau** and other BI tools.
-  - **Cybersecurity**: Securing data and systems, identifying potential threats, and analyzing vulnerabilities.
-  - **Product Management**: Driving strategy and roadmaps with Jira, user research, and performance tracking using Google Analytics and Tableau
-  - **Scrum**: Scrum: Certified Scrum Master, proficient in agile frameworks and sprint facilitation
-
----
-
-## 🛠️ **Tools & Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+  - **Product Management**: Driving strategy and roadmaps with Jira, user research, and performance tracking using ** Google Analytics ** and **Tableau**
+  - **Scrum: Certified Scrum Master**
 
 ---
 
@@ -68,6 +52,19 @@ Analyze HTTP logs of a web application to detect anomalies and improve security.
 Developed a SQL-based management system that stored and managed organizational data efficiently.
 - **Key Skills**: SQL, Database Design, Optimization.
 - **Tools**: MySQL, PostgreSQL.
+
+---
+
+## 🛠️ **Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
