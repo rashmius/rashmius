@@ -14,7 +14,7 @@ I hold a Master's degree in Information Systems and Security, and I’m passiona
   - **SQL**: Joins, Group-By, Window Functions, DateTime & String Functions, and more.
   - **Data Visualization**: Creating impactful visualizations for better understanding.
   - **Dashboarding**: Building interactive dashboards using **Tableau** and other BI tools.
-  - **Product Management**: Driving strategy and roadmaps with Jira, user research, and performance tracking using ** Google Analytics ** and **Tableau**
+  - **Product Management**: Driving strategy and roadmaps with Jira, user research, and performance tracking using **Google Analytics** and **Tableau**
   - **Scrum: Certified Scrum Master**
 
 ---
